@@ -1,0 +1,12 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+langchain-groq
+arxiv
+wikipedia
+faiss-cpu 
+langchain-ollama 
+langchain-community
+faiss-cpu
