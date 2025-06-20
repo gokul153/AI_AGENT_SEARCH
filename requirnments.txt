@@ -10,3 +10,4 @@ faiss-cpu
 langchain-ollama 
 langchain-community
 faiss-cpu
+streamlit
