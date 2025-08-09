@@ -11,3 +11,8 @@ langchain-ollama
 langchain-community
 faiss-cpu
 streamlit
+duckduckgo-search
+langgraph
+langsmith
+mysql-connector-python
+SQLAlchemy
