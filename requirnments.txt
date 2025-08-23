@@ -16,3 +16,7 @@ langgraph
 langsmith
 mysql-connector-python
 SQLAlchemy
+pypdf
+validators
+youtube_transcript_api
+Streamlit
